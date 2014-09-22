@@ -1,4 +1,4 @@
 {
-	"last_test_run": "rspec spec/vkontakte_api/api_spec.rb -l19",
-	"last_test_working_dir": "/Users/local/Documents/WebProjects/vkontakte_api"
+	"last_test_run": "rspec spec/routing/posts_routing_spec.rb -l24",
+	"last_test_working_dir": "/Users/local/Documents/WebProjects/lookatblog"
 }
