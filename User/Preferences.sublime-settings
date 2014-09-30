@@ -1,10 +1,19 @@
 {
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+  "always_show_minimap_viewport": false,
+	"trim_trailing_white_space_on_save": true,
+  "bold_folder_labels": true,
+  "expand_tabs_on_save": true,
+  "highlight_line": true,
+	"translate_tabs_to_spaces": true,
+	"trailing_spaces_include_current_line": false,
+	"tab_size": 2,
+	"preview_on_click": true,
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"font_size": 12,
 	"ignored_packages":
 	[
 		"sublimall",
 		"Vintage"
 	],
-	"theme": "Spacegray.sublime-theme"
+	"theme": "Spacegray Eighties.sublime-theme"
 }
